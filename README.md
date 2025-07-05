@@ -5,10 +5,10 @@ The best-performing model is deployed via a Streamlit web application for real-t
 
 **Project Objectives**
 
-Build a machine learning model to predict battery health using EV-related features.
+1] Build a machine learning model to predict battery health using EV-related features.
 
-Compare various classification algorithms and evaluate their performance.
+2] Compare various classification algorithms and evaluate their performance.
 
-Deploy the best model through a user-friendly Streamlit dashboard.
+3] Deploy the best model through a user-friendly Streamlit dashboard.
 
-Provide actionable insights for preventive maintenance.
+4] Provide actionable insights for preventive maintenance.
